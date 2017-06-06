@@ -9,6 +9,7 @@
      <div class="header">
       <h1>Known Accounts</h1>
      </div>
+     <h2> Sorry, that groupname doesn't exist, try again? <h2>
      <div class="btn_input">
         <form method="get" action="/GID" >
         Professor GID: <input name="USER_IN" id="USER_IN" pattern="[A-Za-z]{1,}" class="text_input" type="text">
